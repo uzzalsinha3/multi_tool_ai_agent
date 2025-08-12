@@ -20,8 +20,27 @@ The assistant uses the **OpenAI** API to interpret user queries and decide which
 
 ## Requirements
 
+###  Clone this repo
+
+```bash
+git clone https://github.com/uzzalsinha3/multi_tool_ai_agent
+cd newsSense
+```
+
 - Python 3.8 to 3.11
 - Install dependencies:
 
 ```bash
 pip install -r requirements.txt
+
+###  Create `.env`
+
+Create a `.env` file in the root
+
+## ▶️ Run the Assistant
+
+```bash
+python multi_tool_ai_agent.py
+```
+
+---
