@@ -24,7 +24,7 @@ The assistant uses the **OpenAI** API to interpret user queries and decide which
 
 ```bash
 git clone https://github.com/uzzalsinha3/multi_tool_ai_agent
-cd newsSense
+
 ```
 
 - Python 3.8 to 3.11
